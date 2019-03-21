@@ -1,0 +1,41 @@
+.menu {
+    padding-top: 5%;
+    padding-left: 2.5%;
+    height: 50%;
+    width: 20%;
+    position: fixed;
+    top: 25%;
+    left: 0;
+    background-color: rgb(243, 243, 243);
+}
+
+.event_search {
+    width: 80%;
+}
+
+.body {
+    padding-top: 5%;
+    margin-left: 20%;
+    padding-left: 2.5%;
+    height: 100%;
+    width: 65%;
+    top: 10%;
+    right: 0;
+}
+
+.pag {
+    border-radius: 50%;
+    background-color: #cccccc;
+    color: black;
+}
+
+p.pag {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+p.pag:hover{
+    background-color: rgb(77, 77, 77);
+    color: #cccccc;
+    cursor: pointer;
+}
